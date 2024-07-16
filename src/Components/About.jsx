@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "src/images/orion-nebula-11107_640.jpg";
+import image from "../images/orion-nebula-11107_640.jpg";
 
 const imageAltText = "orion nebula";
 

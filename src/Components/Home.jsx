@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "src/images/lagoon-nebula-11143_640.jpg";
+import image from "../images/lagoon-nebula-11143_640.jpg";
 
 const imageAltText = "lagoon nebula";
 const Home = ({ name, title }) => {
